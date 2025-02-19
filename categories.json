@@ -1,0 +1,25 @@
+{
+    "categories": [
+      {
+        "name": "Crime Against Women & Children",
+        "description": "This category covers cyber offenses targeting women and children, who are often among the most vulnerable in society. It includes crimes such as online harassment, cyberstalking, revenge porn, non-consensual sharing of intimate images, and online grooming. It also covers digital forms of sexual abuse and exploitation, where perpetrators misuse personal data and images to harm the victim's reputation or emotional well-being. The methods used can involve anonymity, social engineering, and the deliberate manipulation of digital platforms to bypass traditional safeguards, making detection and redress particularly challenging.",
+        "transliterated_description": "Yeh shreni un cyber apradhon ko cover karti hai jo mahilaon aur bachchon par hote hain, kyunki ye log aksar sabse kamzor hote hain. Ismein online tanao, cyber-stalking, badle ka porn, bina ijazat ke nijji tasveeron ka prachar, aur online grooming shamil hain. Saath hi, yeh digital roop mein lingik durupyog aur shoshan ko bhi shamil karti hai, jahan apradhi log vyakti ke data aur tasveeron ka galat istemal karke unki izzat ya maansik sukh ko nuksan pahunchate hain. In apradhon mein aksar guptata, social engineering, aur jaan-bujhkar digital platforms ka galat istemal shamil hota hai, jisse inhe pakadna aur sudharna bahut mushkil ho jata hai."
+      },
+      {
+        "name": "Financial Crimes",
+        "description": "Financial Crimes in the cyber realm focus on illicit monetary gain through digital deception and fraud. This encompasses phishing scams, identity theft, credit card fraud, online banking intrusions, and unauthorized transactions. Criminals may use malware, ransomware, and social engineering techniques to access financial information or siphon funds from individuals and organizations. With the rapid and often anonymous nature of online transactions, these crimes are complex and can involve large-scale, cross-border operations, making tracking and recovery difficult.",
+        "transliterated_description": "Cyber kshetra mein aarthik apradh digital dhokha aur fraud ke jariye gair kanooni paisa kamane par kendrit hote hain. Ismein phishing scams, pehchaan chori, credit card dhokha, online banking mein dakhal, aur bina ijazat ke len-den shamil hain. Apradhi arthik jankari ya vyaktiyon aur sansthaon se paisa churane ke liye malware, ransomware, aur social engineering ka upyog karte hain. Online len-den ki tezi aur aksar gupt hone ke karan, ye apradh jatil hote hain aur bade star par, desh ke bahar ke operations mein shamil ho sakte hain, jisse inhe track karna aur paisa wapas lana mushkil ho jata hai."
+      },
+      {
+        "name": "Cyber Attack/ Dependent Crimes",
+        "description": "This category involves direct attacks on digital infrastructure as well as crimes that rely on such attacks to be executed. It includes distributed denial-of-service (DDoS) attacks, ransomware, malware infections, data breaches, and unauthorized system intrusions. Additionally, it covers offenses like industrial espionage, sabotage, and disruptions of critical services that are enabled by cyber attacks. The primary intent here is to compromise system integrity, steal or manipulate data, or disrupt operations, often with implications that can affect national security and public safety.",
+        "transliterated_description": "Yeh shreni seedhe digital infrastructure par hamle aur un apradhon ko cover karti hai jo in hamlon par adharit hote hain. Ismein DDoS hamle, ransomware, malware sankraman, data breach, aur bina ijazat ke system mein dakhal shamil hain. Iske alawa, yeh industrial jasoosi, sabotage, aur aise mool sevaon ko bhi shamil karti hai jo cyber hamlon se ho sakte hain. Inka mool uddeshya system ki suraksha todna, data churana ya badalna, ya operations ko disrupt karna hota hai, jo aksar rashtriya suraksha aur jan suraksha par asar dal sakta hai."
+      },
+      {
+        "name": "Other Cyber Crimes",
+        "description": "This broad category captures cybercrimes that do not fall into the classifications such as Crime Against Women & Children, Financial Crimes, or Cyber Attack/Dependent Crimes.",
+        "transliterated_description": "Yeh vishaal shreni un cyber apradhon ko shaamil karti hai jo mahilaon aur bachchon ke viruddh apradh, vittiya apradh, ya cyber hamla/sahayak apradh jaise vargon mein nahi aate."
+      }
+    ]
+  }
+  
