@@ -1,0 +1,48 @@
+1. Content Related to Rape/Gang Rape
+2. Online Sexual Coercion & Harassment
+3. Cyber Voyeurism
+4. Cyber Stalking
+5. Cyber Bullying
+6. Child Pornography/Child Sexual Abuse Material (CSAM)
+7. Child Sexual Exploitative Material (CSEM)
+8. Publishing & Transmitting Obscene/Sexually Explicit Material
+9. Computer-Generated CSAM/CSEM
+10. Fake Social Media Profiles
+11. Defamation
+12. Cyber Blackmailing & Threatening
+13. Online Human Trafficking
+14. Investment/Trading Scam
+15. Online Job Fraud
+16. Tech Support Scam/Customer Care Scam
+17. Online Loan Fraud
+18. Romance Scam/Honey Trapping
+19. Impersonation of Government Officials
+20. Impersonation Fraud (Non-Government)
+21. SIM Swap Fraud
+22. Sextortion/Nude Video Call Extortion
+23. Aadhar/Biometric Cloning Fraud
+24. Identity Theft
+25. Courier/Parcel Delivery Scam
+26. Phishing
+27. Online Shopping & E-Commerce Fraud
+28. Advance Fee Fraud
+29. Real Estate/Rental Payment Fraud
+30. Malware Attack
+31. Ransomware Attack
+32. Hacking/Website Defacement
+33. Data Breach & Theft
+34. Tampering with Digital Documents
+35. Denial of Service (DoS)/Distributed Denial of Service (DDoS) Attack
+36. SQL Injection
+37. Fake Police Scam
+38. Cyber Terrorism
+39. Social Media Account Hacking
+40. Online Gambling/Betting Fraud
+41. Business Email Compromise/Fraudulent Takeover
+42. Fake News & Misinformation
+43. Cyber Harassment & Bullying
+44. Sending Obscene Material
+45. Intellectual Property Theft (IPR)
+46. Human Trafficking via Dark Web/Cyber Slavery
+47. Cyber Piracy
+48. Other Cyber Crimes
